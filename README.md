@@ -2,16 +2,17 @@
 
 Play the game here! - https://jennifershinshin.itch.io/pixel-dawn
 
-An outbreak has occurred and 99% of all living beings have turned into zom
-bies! The player must survive for as many waves of zombies as possible.
-This game is a 2D arcade-stle game and will have aspects of run and gun, survival, and platforming. The player can choose from 4 different characters, each with their own unique playstyles, movements, and super abilities. In order to kill zombies, players will have different types of weapons like pistols and grenades. Weapons can be bought from the shop using points that they accumulate from shooting zombies. Players can use their super abilities when they kill a certain amount of zombies or wait a short amount of time. Each character also has stamina; the stamina depletes when moving/jumping. When stamina reaches 0, the character must rest and cannot move until their stamina regenerates its max.
+An outbreak has occurred and 99% of all living beings have turned into zombies! The player must survive for as many waves of zombies as possible.
+This game is a 2D arcade-style game and will have aspects of run and gun, survival, and platforming. The player can choose from 4 different characters, each with their own unique playstyles, movements, and super abilities. In order to kill zombies, players will have different types of weapons like pistols and grenades. Weapons can be bought from the shop using points that they accumulate from shooting zombies. Players can use their super abilities when they kill a certain amount of zombies or wait a short amount of time. Each character also has stamina; the stamina depletes when moving/jumping. When stamina reaches 0, the character must rest and cannot move until their stamina regenerates its max.
 
-**My contribution**
-I was responsible for weapons, shooting, and the inventory system. For shooting, I used raycasting to trace . I learned a lot through Brackeys tutorials (Brackeys is a popular Youtuber who teaches a lot of techniques in Unity).
+**My contribution**:
+I was responsible for weapons, shooting, and the inventory system. For shooting, I used raycasting to trace the direction of the bullet. I learned a lot through Brackeys tutorials (Brackeys is a popular Youtuber who teaches a lot of techniques in Unity).
 
 ## Controls and Gameplay
 
 When you first load into the level, go to the pink mushroom store to purchase a gun. You start with 100 points, which is enough to buy a pistol. Press B to buy from the mushroom store, click on the pistol, then press G to exit the store. You should see a pistol on the ground now. Press E to equip the gun (make sure you are facing right when equipping. It is one of our known bugs).
+
+**Reminder: If your character suddenly stops moving, he/she probably ran out of stamina! Wait a while until it regenerates**
 
 * A/D - Move left/right
 * Space - Jump
